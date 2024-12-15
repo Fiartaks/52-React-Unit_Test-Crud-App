@@ -1,8 +1,7 @@
-# 52-React-Unit_Test
 # 👥 User Management Application
 
 ## 📖 Project Overview
-🌍 This User Management Application provides a platform for managing user data efficiently. Users can be added to a list with their respective information (name, email, and age) through a simple form interface. Built with **React**, this application enhances the user experience with responsive design powered by Bootstrap and ensures data integrity through unit tests with **Jest**.
+🌍 Built with **React**, this application enhances the user experience with responsive design powered by Bootstrap and ensures data integrity through unit tests with **Jest**. This User Management Application provides a platform for managing user data efficiently. Users can be added to a list with their respective information (name, email, and age) through a simple form interface. 
 
 ## 📸 Screenshots 📸
 
